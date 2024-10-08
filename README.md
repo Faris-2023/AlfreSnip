@@ -4,7 +4,7 @@ A streamlined workflow for inputting snippets into Alfred's Snippets, capable of
 
 # Usage
 Simply input the words or phrases you want to convert into snippets in the pop-up windows. You can also add multiple snippets in one session by repeating the process each time the workflow is triggered.
-![test](https://github.com/Faris-2023/AlfreSnip/blob/5f2bfc2a22da12c72025ff5e938c82f7ca70a6e8/images/001.png)
+![test](https://github.com/Faris-2023/AlfreSnip/blob/bf5977f08cb7dfd7a90d65686a4dac677fce0361/images/001.png)
 ![test](https://github.com/Faris-2023/AlfreSnip/blob/5f2bfc2a22da12c72025ff5e938c82f7ca70a6e8/images/002.png)
 ![test](https://github.com/Faris-2023/AlfreSnip/blob/5f2bfc2a22da12c72025ff5e938c82f7ca70a6e8/images/003.png)
 ![test](https://github.com/Faris-2023/AlfreSnip/blob/5f2bfc2a22da12c72025ff5e938c82f7ca70a6e8/images/004.png)
